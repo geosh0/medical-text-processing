@@ -63,3 +63,5 @@ Open ohsumed.ipynb and run all cells. This will:
   * train the deep learning sequence models, and
   * output the final comprehensive evaluation CSVs.
     
+## Data from:
+* [OHSUMED](https://huggingface.co/datasets/community-datasets/ohsumed)
