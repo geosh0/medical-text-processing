@@ -1,11 +1,4 @@
 # 🏥 Medical Document Classification: Cancer Types
-![alt text](https://img.shields.io/badge/Python-3.8%2B-blue)
-
-![alt text](https://img.shields.io/badge/TensorFlow-2.x-orange)
-
-![alt text](https://img.shields.io/badge/sklearn-Latest-green)
-
-![alt text](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ## 📌 Project Overview
 This project implements a complete **Natural Language Processing (NLP)** pipeline to classify medical research papers into specific cancer categories (**Thyroid, Colon, and Lung Cancer**).
