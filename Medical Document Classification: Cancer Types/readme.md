@@ -44,3 +44,5 @@ Two distinct approaches were benchmarked:
   * CNN (1D): Convolutional Neural Network with Global Max Pooling to detect specific medical keywords regardless of position.
 
  
+## Data from:
+* [Medical Text Dataset -Cancer Doc Classification](https://www.kaggle.com/datasets/falgunipatel19/biomedical-text-publication-classification/code)
